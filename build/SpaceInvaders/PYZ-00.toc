@@ -296,17 +296,55 @@
   ('string',
    'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\string.py',
    'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\mgrac\\documents\\github\\space game '
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\mgrac\\documents\\github\\space game '
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\mgrac\\documents\\github\\space game '
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\mgrac\\documents\\github\\space game '
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'c:\\users\\mgrac\\documents\\github\\space game '
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'c:\\users\\mgrac\\documents\\github\\space game '
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
   ('pkg_resources._vendor.packaging',
    'c:\\users\\mgrac\\documents\\github\\space game '
    'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\mgrac\\documents\\github\\space game '
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\mgrac\\documents\\github\\space game '
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.specifiers',
    'c:\\users\\mgrac\\documents\\github\\space game '
    'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
-  ('pkg_resources._vendor',
+  ('pkg_resources._vendor.packaging.__about__',
    'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
    'c:\\users\\mgrac\\documents\\github\\space game '
@@ -333,47 +371,9 @@
   ('ctypes.macholib.framework',
    'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\macholib\\framework.py',
    'PYMODULE'),
-  ('ctypes',
-   'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\__init__.py',
-   'PYMODULE'),
-  ('ctypes._endian',
-   'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ctypes\\_endian.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.appdirs',
-   'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._manylinux',
-   'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
-   'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
   ('pkg_resources._vendor.packaging.requirements',
    'c:\\users\\mgrac\\documents\\github\\space game '
    'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.version',
-   'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.markers',
-   'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
-   'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._musllinux',
-   'c:\\users\\mgrac\\documents\\github\\space game '
-   'pygame\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
    'PYMODULE'),
   ('sysconfig',
    'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\sysconfig.py',
@@ -508,11 +508,11 @@
   ('pathlib',
    'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pathlib.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_py_abc.py',
-   'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_py_abc.py',
    'PYMODULE'),
   ('stringprep',
    'C:\\Users\\mgrac\\AppData\\Local\\Programs\\Python\\Python37\\lib\\stringprep.py',
