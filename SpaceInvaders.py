@@ -8,7 +8,7 @@ pygame.mixer.init()
 
 WIDTH, HEIGHT = 900, 500
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Space Invaders 🚀 Created by Grace Hephzibah M - SRM IST,RMP")
+pygame.display.set_caption("Space Invaders 🚀")
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
